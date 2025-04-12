@@ -49,4 +49,4 @@ Clean and analyze Twitter data to uncover patterns in dog ratings (`rating_numer
 ## 🚀 Quick Start
 1. &zwnj;**Clone the repository**&zwnj;:
    ```bash
-   git clone https://github.com/tracyli1005/Twitter_Dog_Rating.git
+   git clone https://github.com/tracyli1005/Twitter_Dog_Rating
