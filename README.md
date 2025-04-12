@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![Data](https://img.shields.io/badge/Dataset-Twitter%20Dog%20Ratings-green)](https://example.com)
+[![Data](https://img.shields.io/badge/Dataset-Twitter%20Dog%20Ratings-green)](https://raw.githubusercontent.com/udacity/new-dand-advanced-china/master/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97/WeRateDogs%E9%A1%B9%E7%9B%AE/image-predictions.tsv)
 
 This Jupyter Notebook analyzes Twitter data focused on dog ratings and image predictions. The project cleans raw social media data, explores dog breed classifications, and visualizes key insights about how users rate and categorize dogs on Twitter.
 
@@ -18,7 +18,7 @@ Clean and analyze Twitter data to uncover patterns in dog ratings (`rating_numer
    - Dog ratings (`rating_numerator`, `rating_denominator`)
    - Dog attributes (`doggo`, `pupper`, `puppo`, `floofer`)
    - User-assigned dog `name`
-2. &zwnj;**Image Prediction Data**&zwnj;: Downloaded from [external URL](https://example.com) containing breed predictions from tweet images.
+2. &zwnj;**Image Prediction Data**&zwnj;: Downloaded from [external URL](https://raw.githubusercontent.com/udacity/new-dand-advanced-china/master/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97/WeRateDogs%E9%A1%B9%E7%9B%AE/image-predictions.tsv) containing breed predictions from tweet images.
 
 ---
 
