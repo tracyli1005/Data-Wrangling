@@ -43,11 +43,10 @@ Clean and analyze Twitter data to uncover patterns in dog ratings (`rating_numer
 ### 3. Visualization
 - 📈 Histograms of normalized ratings
 - 🐩 Bar charts for most common dog breeds (user-labeled vs. image-predicted)
-- 📉 Time series of tweet frequency by month
 
 ---
 
 ## 🚀 Quick Start
 1. &zwnj;**Clone the repository**&zwnj;:
    ```bash
-   git clone https://github.com/yourusername/twitter-dog-analysis.git
+   git clone https://github.com/tracyli1005/Twitter_Dog_Rating.git
